@@ -232,7 +232,8 @@
             // 
             this.pibTerra.Location = new System.Drawing.Point(559, 22);
             this.pibTerra.Name = "pibTerra";
-            this.pibTerra.Size = new System.Drawing.Size(259, 270);
+            this.pibTerra.Size = new System.Drawing.Size(259, 359);
+            this.pibTerra.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pibTerra.TabIndex = 4;
             this.pibTerra.TabStop = false;
             // 
